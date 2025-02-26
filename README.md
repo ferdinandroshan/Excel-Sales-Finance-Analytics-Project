@@ -5,9 +5,9 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[Customer Performance Report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+    **1.** Create a _[Customer Performance Report](https://github.com/ferdinandroshan/Excel-Sales-Finance-Analytics-Project/blob/main/Net%20Sales%20Report%20-%20By%20Customers.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[Market Performance and Sales Targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    **2.** Conduct a comprehensive comparison between _[Market Performance and Sales Targets](https://github.com/ferdinandroshan/Excel-Sales-Finance-Analytics-Project/blob/main/Net%20Sales%20Performance%20Vs%20Targets%20Report.pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -20,9 +20,9 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/ferdinandroshan/Excel-Sales-Finance-Analytics-Project/blob/main/P%20%26%20L%20-%20Across%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/ferdinandroshan/Excel-Sales-Finance-Analytics-Project/blob/main/P%20%26%20L%20-%20Across%20Months.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/ferdinandroshan/Excel-Sales-Finance-Analytics-Project/blob/main/P%20%26%20L%20-%20Across%20Markets.pdf)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 

@@ -40,7 +40,7 @@ Empower businesses to **monitor and evaluate** their sales activities and perfor
 
 ![Image](https://github.com/ferdinandroshan/Excel-Sales-Finance-Analytics-Project/blob/main/Additional%20Resources%20%26%20Files/Data%20Model%20-%20Finance%20%26%20Sales%20Analytics%20Project.png)
 
-3️⃣ **DAX & Power Pivot** – Used **DAX formulas** to create customer measures and analyze metrics across different **fiscal years**.  
+3️⃣ **DAX & Power Pivot** – Used **DAX formulas** to create custom calculated measures and analyze metrics across different **fiscal years**.  
 
 ![Image](https://github.com/ferdinandroshan/Excel-Sales-Finance-Analytics-Project/blob/main/Additional%20Resources%20%26%20Files/Calculated%20Measures%20-%20Finance%20%26%20Sales%20Analytics%20Project.png)
 

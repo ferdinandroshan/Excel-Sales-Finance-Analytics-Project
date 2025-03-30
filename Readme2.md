@@ -35,6 +35,7 @@ Empower businesses to **monitor and evaluate** their sales activities and perfor
 
 ## 🛠 Step-by-Step Approach:
 1️⃣ **Data Extraction & Cleaning** – Used **Power Query** to import data from multiple **Excel files & folders**, automate transformations, and clean data. 
+
 2️⃣ **Data Modeling** – Built a **robust data model** by establishing relationships between multiple tables.  
 
 ![Image](https://github.com/ferdinandroshan/Excel-Sales-Finance-Analytics-Project/blob/main/Additional%20Resources%20%26%20Files/Data%20Model%20-%20Finance%20%26%20Sales%20Analytics%20Project.png)

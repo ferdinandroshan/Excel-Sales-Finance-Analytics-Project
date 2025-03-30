@@ -37,15 +37,15 @@ Empower businesses to **monitor and evaluate** their sales activities and perfor
 1️⃣ **Data Extraction & Cleaning** – Used **Power Query** to import data from multiple **Excel files & folders**, automate transformations, and clean data. 
 2️⃣ **Data Modeling** – Built a **robust data model** by establishing relationships between multiple tables.  
 
-[!Image](https://github.com/ferdinandroshan/Excel-Sales-Finance-Analytics-Project/blob/main/Additional%20Resources%20%26%20Files/Data%20Model%20-%20Finance%20%26%20Sales%20Analytics%20Project.png)
+![Image](https://github.com/ferdinandroshan/Excel-Sales-Finance-Analytics-Project/blob/main/Additional%20Resources%20%26%20Files/Data%20Model%20-%20Finance%20%26%20Sales%20Analytics%20Project.png)
 
 3️⃣ **DAX & Power Pivot** – Used **DAX formulas** to create customer measures and analyze metrics across different **fiscal years**.  
 
-[!Image](https://github.com/ferdinandroshan/Excel-Sales-Finance-Analytics-Project/blob/main/Additional%20Resources%20%26%20Files/Calculated%20Measures%20-%20Finance%20%26%20Sales%20Analytics%20Project.png)
+![Image](https://github.com/ferdinandroshan/Excel-Sales-Finance-Analytics-Project/blob/main/Additional%20Resources%20%26%20Files/Calculated%20Measures%20-%20Finance%20%26%20Sales%20Analytics%20Project.png)
 
 4️⃣ **Visualization & Analysis** – Utilized **Pivot Tables** to present findings in multiple reports with interactive insights.  
 
-[!Image](https://github.com/ferdinandroshan/Excel-Sales-Finance-Analytics-Project/blob/main/Additional%20Resources%20%26%20Files/Sample%20Report%20-%20Finance%20%26%20Sales%20Analytics%20Project.png)
+![Image](https://github.com/ferdinandroshan/Excel-Sales-Finance-Analytics-Project/blob/main/Additional%20Resources%20%26%20Files/Sample%20Report%20-%20Finance%20%26%20Sales%20Analytics%20Project.png)
 
 ---
 

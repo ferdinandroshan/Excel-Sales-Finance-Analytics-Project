@@ -44,6 +44,8 @@
    
    **4.** Utilised Pivot Tables to analyze data and present findings in the form of multiple reports.
 
+![Image](https://github.com/ferdinandroshan/Excel-Sales-Finance-Analytics-Project/blob/main/Additional%20Resources%20%26%20Files/Sample%20Report%20-%20Finance%20%26%20Sales%20Analytics%20Project.png)
+
 
 ## Technical & Soft Skills learned via this project:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).

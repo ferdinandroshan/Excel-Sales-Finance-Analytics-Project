@@ -35,7 +35,8 @@
    **1.** Used Power Query to import data from multiple Excel files & folders. Combined them and performed various data transformations and automated the data cleaning process. 
 
    **2.** Built a _[Robust Data Model](https://github.com/ferdinandroshan/Excel-Sales-Finance-Analytics-Project/blob/main/Additional%20Resources%20%26%20Files/Data%20Model%20-%20Finance%20%26%20Sales%20Analytics%20Project.png)_ by establishing relations between multiple tables. 
-https://github.com/ferdinandroshan/Excel-Sales-Finance-Analytics-Project/blob/main/Additional%20Resources%20%26%20Files/Data%20Model%20-%20Finance%20%26%20Sales%20Analytics%20Project.png
+   
+![Image](https://github.com/ferdinandroshan/Excel-Sales-Finance-Analytics-Project/blob/main/Additional%20Resources%20%26%20Files/Data%20Model%20-%20Finance%20%26%20Sales%20Analytics%20Project.png)
 
    **4.** Used DAX Formulas via Power Pivots to create _[custom measures](https://github.com/ferdinandroshan/Excel-Sales-Finance-Analytics-Project/blob/main/Additional%20Resources%20%26%20Files/Calculated%20Measures%20-%20Finance%20%26%20Sales%20Analytics%20Project.png)_ for calculations of various metrics across different Fiscal Years.
 https://github.com/ferdinandroshan/Excel-Sales-Finance-Analytics-Project/blob/main/Additional%20Resources%20%26%20Files/Calculated%20Measures%20-%20Finance%20%26%20Sales%20Analytics%20Project.png

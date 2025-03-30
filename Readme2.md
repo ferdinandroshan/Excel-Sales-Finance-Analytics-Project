@@ -1,8 +1,8 @@
 # 📊 Sales & Finance Report - AtliQ Hardware Project
 
-## 📈 Sales Report
+## Sales Report:
 
-### 🎯 Project Objectives:
+### Project Objectives:
 ✔ **Create a _[Customer Performance Report](https://github.com/ferdinandroshan/Excel-Sales-Finance-Analytics-Project/blob/main/Net%20Sales%20Reports/Net%20Sales%20Report%20-%20By%20Customers.pdf)_** to track and evaluate customer engagement.  
 ✔ **Compare _[Market Performance vs. Sales Targets](https://github.com/ferdinandroshan/Excel-Sales-Finance-Analytics-Project/blob/main/Net%20Sales%20Reports/Net%20Sales%20Performance%20Vs%20Targets%20Report.pdf)_** for strategic insights.  
 

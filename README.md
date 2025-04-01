@@ -1,63 +1,68 @@
-# Sales & Finance Report - AtliQ Hardware Project:
+# 📊 Sales & Finance Report - AtliQ Hardware Project
 
+## Sales Report:
 
-## Sales Report :
+### Project Objectives:
+✅ **Create a _[Customer Performance Report](https://github.com/ferdinandroshan/Excel-Sales-Finance-Analytics-Project/blob/main/Net%20Sales%20Reports/Net%20Sales%20Report%20-%20By%20Customers.pdf)_** to track and evaluate customer sales performance.  
+✅ **Conduct a comprehensive comparison between _[Market Performance and Sales Targets](https://github.com/ferdinandroshan/Excel-Sales-Finance-Analytics-Project/blob/main/Net%20Sales%20Reports/Net%20Sales%20Performance%20Vs%20Targets%20Report.pdf)_** for strategic insights.  
 
-- **Project Objective:** 
+### Purpose of Sales Analytics:
+Empower businesses to **monitor and evaluate** their sales activities and performance effectively.
 
-    **1.** Create a _[Customer Performance Report](https://github.com/ferdinandroshan/Excel-Sales-Finance-Analytics-Project/blob/main/Net%20Sales%20Report%20-%20By%20Customers.pdf)_ 
+### Importance of Analyzing Sales Data:
+➡️ Identify **sales patterns** and track **key performance indicators (KPIs)**.  
+➡️ Optimize **customer discounts** and facilitate negotiations.  
+➡️ Discover **expansion opportunities** in high-potential markets.  
 
-    **2.** Conduct a comprehensive comparison between _[Market Performance and Sales Targets](https://github.com/ferdinandroshan/Excel-Sales-Finance-Analytics-Project/blob/main/Net%20Sales%20Performance%20Vs%20Targets%20Report.pdf)_
+---
 
-- **Purpose of Sales Analytics:** To empower businesses to monitor and evaluate their sales activities and performance.
+## Finance Report
 
-- **Importance of analyzing sales data:** To identify sales patterns and track key performance indicators (KPIs).
+### Project Objectives:
+✅ **Create a Profit & Loss (P & L) Report** by **_[Fiscal Year](https://github.com/ferdinandroshan/Excel-Sales-Finance-Analytics-Project/blob/main/P%20%26%20L%20Reports/P%20%26%20L%20-%20Across%20Fiscal%20Year.pdf)_ & _[Month](https://github.com/ferdinandroshan/Excel-Sales-Finance-Analytics-Project/blob/main/P%20%26%20L%20Reports/P%20%26%20L%20-%20Across%20Months.pdf)_**.  
+✅ **Generate Profit & Loss (P & L) Report by _[Markets](https://github.com/ferdinandroshan/Excel-Sales-Finance-Analytics-Project/blob/main/P%20%26%20L%20Reports/P%20%26%20L%20-%20Across%20Markets.pdf)_** for comparative analysis.  
 
-- **Role of Reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+### Purpose of Finance Analytics:
+**Evaluate financial performance** to support business decision-making and **facilitate communication** with stakeholders regarding financial health.  
 
+### Importance of Analyzing Financial Data:
+➡️ **Benchmark** against industry peers and historical trends.  
+➡️ Provide a **foundation for budgeting and forecasting**.  
+➡️ Align financial planning with strategic goals to **instill confidence** in the organization’s outlook.  
 
-## Finance Report :
+---
 
-- **Project Objective:** 
+## 📌 Step-by-Step Approach:
 
-    **1.** Create Profit and Loss (P&L) Report by _[Fiscal Year.](https://github.com/ferdinandroshan/Excel-Sales-Finance-Analytics-Project/blob/main/P%20%26%20L%20-%20Across%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/ferdinandroshan/Excel-Sales-Finance-Analytics-Project/blob/main/P%20%26%20L%20-%20Across%20Months.pdf)_ 
+1️⃣ **Data Extraction & Cleaning** – Used **Power Query** to import data from multiple **Excel files & folders**, automate transformations, and clean data. 
 
-   **2.** Create Profit and Loss (P&L) Report by _[Markets.](https://github.com/ferdinandroshan/Excel-Sales-Finance-Analytics-Project/blob/main/P%20%26%20L%20-%20Across%20Markets.pdf)_
+2️⃣ **Data Modeling** – Built a **robust data model** by establishing relationships between 5+ tables.  
 
-- **Purpose of Finance Analytics:** To evaluate financial performance, support decision-making, and facilitate communication with stakeholders.
-
-- **Importance of Analyzing Financial Data:** Aids in benchmarking against industry peers and previous periods. It also works as a foundation for budgeting and forecasting.
-
-- **Role of Reports:** It helps to align financial planning with strategic goals and instills confidence in the organization's financial outlook.
-
-## Step By Step Approach to this project:
-
-   **1.** Used Power Query to import data from multiple Excel files & folders. Combined them and performed various data transformations and automated the data cleaning process. 
-
-   **2.** Built a Robust Data Model by establishing relations between multiple tables. 
-   
 ![Image](https://github.com/ferdinandroshan/Excel-Sales-Finance-Analytics-Project/blob/main/Additional%20Resources%20%26%20Files/Data%20Model%20-%20Finance%20%26%20Sales%20Analytics%20Project.png)
 
-   **4.** Used DAX Formulas via Power Pivots to create customer measures for calculations of various metrics across different Fiscal Years.
-   
+3️⃣ **DAX & Power Pivot** – Used **DAX formulas** to create custom calculated measures and analyze metrics across different **fiscal years**.  
+
 ![Image](https://github.com/ferdinandroshan/Excel-Sales-Finance-Analytics-Project/blob/main/Additional%20Resources%20%26%20Files/Calculated%20Measures%20-%20Finance%20%26%20Sales%20Analytics%20Project.png)
-   
-   **5.** Utilised Pivot Tables to analyze data and present findings in the form of multiple reports.
+
+4️⃣ **Visualization & Analysis** – Utilized **Pivot Tables** to present findings in multiple reports with interactive insights.  
 
 ![Image](https://github.com/ferdinandroshan/Excel-Sales-Finance-Analytics-Project/blob/main/Additional%20Resources%20%26%20Files/Sample%20Report%20-%20Finance%20%26%20Sales%20Analytics%20Project.png)
 
+---
 
-## Technical & Soft Skills learned via this project:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
-- [x]	Utilized conditional formatting to highlight crucial information. 
+## Technical & Soft Skills Learned:
 
-## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports.
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report-building plan.
+### **Technical Skills:**
+✔️ **ETL Methodology** – Extract, Transform, Load.  
+✔️ **Power Query** – Generated a **date table** and derived **fiscal months & quarters**.  
+✔️ **Power Pivot** – Established **data model relationships** and integrated supplementary data.  
+✔️ **DAX Functions** – Created **calculated columns & measures** for in-depth analysis.  
+✔️ **Conditional Formatting** – Highlighted key insights dynamically.  
+
+### **Soft Skills:**
+✔️ Deepened understanding of **Sales & Finance Reports**.  
+✔️ Designed **user-centric reports** with empathy and usability in mind.  
+✔️ **Optimized report generation** through meticulous fine-tuning.  
+✔️ Developed a **systematic approach** to report building.  
+
+This project strengthened my ability to analyze **sales and finance data**, create impactful **reports**, and derive **actionable insights** for business growth! 🚀
